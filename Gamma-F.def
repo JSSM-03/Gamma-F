@@ -28,6 +28,7 @@ sound    = Gamma-F.snd      ; Sound
 pal1 = gammaPalette1.act
 pal2 = gammaPalette2.act
 pal3 = gammaPalette3.act
+pal4 = gammaPalette4.act
 
 ; Arcade mode
 [Arcade]
